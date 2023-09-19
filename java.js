@@ -31,3 +31,17 @@
 // var divided=8;
 // var earn=( totalMoney/divided);
 // document.write(earn);
+
+
+// var score=1;
+// while (score<20){
+//     document.write(score);
+//     score=score+2;
+// }
+
+// var score=0;
+// while (score<20){
+//     document.write(score);
+//     score=score+2;
+
+// }
